@@ -2,4 +2,4 @@
 
 ## JS Logo
 
-![](logos/js-logo/js-logo.svg)
+![](logos/js-logo/js-logo.png)
